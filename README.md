@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+App.js is the main code for the connection of backend and frontend
+In the files are uploaded all the components created as: Headers.js;About,js;contacts.js;Main.css;SocialFollow.js 
 In the project directory, you can run:
 
 ### `npm start`
@@ -13,4 +14,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
